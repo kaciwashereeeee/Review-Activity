@@ -1,0 +1,11 @@
+body{
+    background-color:dodgerblue;}
+#lemon{
+    width:400px;
+    background-color:blue;}
+#lime{
+    background-color:red;
+    width:200px;   
+    height:500px;
+    border-style:dashed;}
+
